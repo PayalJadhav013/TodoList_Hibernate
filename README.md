@@ -14,7 +14,7 @@ Server: Apache Tomcat 10.1
 
 Build Tool: Maven
 
-# Technical Highlights
+Technical Highlights
 
 Backend Services:
 
@@ -40,7 +40,7 @@ Hibernate ORM for object-relational mapping
 
 Automatic schema generation via Hibernate
 
-# Development Environment
+Development Environment
 
 IDE: Spring Tool Suite 4
 
