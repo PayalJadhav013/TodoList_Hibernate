@@ -1,0 +1,4 @@
+com\todolist\util\HibernateUtil.class
+com\todolist\model\Task.class
+com\todolist\controller\ApiServlet.class
+com\todolist\controller\TaskServlet.class
